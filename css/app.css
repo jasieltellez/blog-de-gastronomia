@@ -1,0 +1,34 @@
+body{
+  background-image: url(../img/fondo.jpg);
+}
+.contenido{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #228edd;
+  opacity: 0.8;
+  margin-top: 20px;
+  padding-top: 10px;
+
+}
+.titulo{
+    border-right: solid 1.5px white;
+}
+.panel-izquierdo{
+  background-color: #dbe4ea;
+}
+.panel-derecho{
+  background-color: #f1d9e7;
+}
+.buscador{
+  margin-top: 2em;
+}
+.btn-search{
+  background-color: #f7229f;
+}
+.menu li{
+  border: solid 1px #f7229f;
+}
+.favoritos img{
+  border: solid 2px white;
+  border-radius: 3px;
+}
