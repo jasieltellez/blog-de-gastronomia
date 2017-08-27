@@ -22,13 +22,18 @@ body{
 .buscador{
   margin-top: 2em;
 }
-.btn-search{
+.btn-search,.btn-send{
   background-color: #f7229f;
 }
 .menu li{
   border: solid 1px #f7229f;
 }
-.favoritos img{
-  border: solid 2px white;
-  border-radius: 3px;
+.history li {
+  list-style: none;
+}
+.favoritos{
+  margin-top: 2em;
+}
+.article-date{
+
 }
